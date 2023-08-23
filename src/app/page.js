@@ -19,8 +19,8 @@ import logo_4 from "/./public/images/landing_page/Logo_4.png";
 import logo_5 from "/./public/images/landing_page/Logo_5.png";
 
 import icon_4 from "/./public/images/landing_page/Icon_4.svg";
-import icon_5 from "/./public/images/landing_page/icon_5.svg";
-import icon_6 from "/./public/images/landing_page/icon_6.svg";
+import icon_5 from "/./public/images/landing_page/Icon_5.svg";
+import icon_6 from "/./public/images/landing_page/Icon_6.svg";
 
 import icon_7 from "/./public/images/landing_page/Icon_7.svg";
 import icon_8 from "/./public/images/landing_page/Icon_8.svg";

@@ -20,7 +20,7 @@ import icon_6 from "/./public/images/product_page/Icon_5.svg";
 import image_1 from "/./public/images/product_page/Image_1.png";
 import image_2 from "/./public/images/product_page/Image_2.png";
 import image_3 from "/./public/images/product_page/Image_3.png";
-import image_4 from "/./public/images/product_page/image_4.png";
+import image_4 from "/./public/images/product_page/Image_4.png";
 
 import icon_7 from "/./public/images/landing_page/Icon_7.svg";
 import icon_8 from "/./public/images/landing_page/Icon_8.svg";
